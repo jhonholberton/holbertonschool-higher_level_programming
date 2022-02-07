@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""despues lo hago"""
+"""this is base class"""
 
 
 from curses.textpad import rectangle
@@ -7,12 +7,12 @@ import json
 
 
 class Base:
-    """despues lo hago de nuevo"""
+    """class base"""
     __nb_objects = 0
 
     def __init__(self, id=None):
 
-        """otro comentario"""
+        """initialize instance attributes"""
 
         if id is not None:
             self.id = id
@@ -22,7 +22,7 @@ class Base:
 
     @staticmethod
     def to_json_string(list_dictionaries):
-        """lo hago despues"""
+        """return json string representation of list_dictionaries"""
         if list_dictionaries is None:
             return "[]"
         else:
@@ -30,7 +30,7 @@ class Base:
 
     @classmethod
     def save_to_file(cls, list_objs):
-        """lo hago despues"""
+        """writes the json string representation of list_objs  to a file"""
         filename = cls.__name__ + ".json"
         with open(filename, mode="w") as file:
             if list_objs is None:
@@ -41,7 +41,7 @@ class Base:
 
     @staticmethod
     def from_json_string(json_string):
-        """lo hago despues"""
+        """return the list of the json string representing json_string"""
         if json_string is None:
             return []
         else:
@@ -49,7 +49,7 @@ class Base:
 
     @classmethod
     def create(cls, **dictionary):
-        """comentario"""
+        """return an instance with all attributes already set"""
         if cls.__name__ == "Rectangle":
             dummy = cls(9, 8)
         if cls.__name__ == "Square":
