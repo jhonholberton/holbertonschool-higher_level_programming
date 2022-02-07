@@ -43,7 +43,7 @@ class Base:
     def from_json_string(json_string):
         """lo hago despues"""
         if json_string is None:
-            return "[]"
+            return []
         else:
             return json.loads(json_string)
 
