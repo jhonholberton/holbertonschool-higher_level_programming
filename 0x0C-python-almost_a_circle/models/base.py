@@ -2,8 +2,9 @@
 """this is base class"""
 
 
-from curses.textpad import rectangle
+import csv
 import json
+import csv
 
 
 class Base:
