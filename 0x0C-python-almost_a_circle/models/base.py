@@ -2,7 +2,6 @@
 """this is base class"""
 
 
-import csv
 import json
 import csv
 
