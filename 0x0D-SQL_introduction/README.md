@@ -1,4 +1,4 @@
-<img src="https://cambiodigital-ol.com/wp-content/uploads/2020/02/sql_portada_opt.png" style="height:100%;width:50%" />
+<img src="https://cambiodigital-ol.com/wp-content/uploads/2020/02/sql_portada_opt.png" style="height:100%;width:100%" />
 
 # 0x0D. SQL - Introduction
 
