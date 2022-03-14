@@ -47,5 +47,5 @@ Files | Description |
 
 ## Author
 
-* **Jhon Gonzalez** <[jhonholberton](https://github.com/jhonholberton)>
+* **github** [jhonholberton](https://github.com/jhonholberton)
 * **Linkedin:** https://www.linkedin.com/in/jhon-gonzalez-354487202
