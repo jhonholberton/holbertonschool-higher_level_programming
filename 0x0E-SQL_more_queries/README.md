@@ -2,7 +2,7 @@
 
 # 0x0D. SQL - Introduction
 
-# Description
+## Description
 
 MySQL is an open-source database management software that helps users store, organize, and later retrieve data. It has a variety of options to grant specific users nuanced permissions within the tables and databases—this tutorial will give a short overview of a few of the many options.
 
@@ -19,6 +19,20 @@ The following illustrates the basic syntax of the GRANT statement:
 ````ON privilege_level ````
 
 ````TO account_name;````
+
+## Primary key
+
+The PRIMARY KEY constraint uniquely identifies each record in a database table. It is a special case of unique keys. Primary keys cannot be NULL, unique keys can be. There can be more UNIQUE columns, but only one primary key in a table. Primary keys are important when designing the database tables. Primary keys are unique ids. We use them to refer to table rows. Primary keys become foreign keys in other tables, when creating relations among tables.
+
+````mysql> DROP TABLE Brands;````
+
+````mysql> CREATE TABLE Brands(Id INTEGER PRIMARY KEY, BrandName VARCHAR(30) UNIQUE);````
+
+## Foreign key
+
+A FOREIGN KEY in one table points to a PRIMARY KEY in another table. It is a referential constraint between two tables. The foreign key identifies a column or a set of columns in one (referencing) table that refers to a column or set of columns in another (referenced) table.
+
+
 
 ## Learning Objectives
 
