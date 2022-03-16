@@ -15,7 +15,9 @@ To allow user accounts to work with database objects, you need to grant the user
 The following illustrates the basic syntax of the GRANT statement:
 
 ````GRANT privilege [,privilege],..````
+
 ````ON privilege_level ````
+
 ````TO account_name;````
 
 ## Learning Objectives
