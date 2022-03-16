@@ -1,4 +1,4 @@
-<img src="https://2.bp.blogspot.com/-vOlS5TOodb4/XxTq3sIsFFI/AAAAAAAATbQ/-aDZL-YLpdwVcK04cq2LwNH741OiC4g7ACLcBGAsYHQ/s0/SQL-server.jpg" style="height:100%;width:100%" />
+<img src="https://2.bp.blogspot.com/-vOlS5TOodb4/XxTq3sIsFFI/AAAAAAAATbQ/-aDZL-YLpdwVcK04cq2LwNH741OiC4g7ACLcBGAsYHQ/s0/SQL-server.jpg" style="height:50%;width:100%" />
 
 # 0x0D. SQL - Introduction
 
