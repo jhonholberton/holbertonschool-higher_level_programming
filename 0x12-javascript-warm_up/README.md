@@ -47,6 +47,7 @@ Files | Description |
 **11-second_biggest.js**      | Write a script that searches the second biggest integer in the list of arguments.|
 **12-object.js**  |Update this script to replace the value 12 with 89.|
 **13-add.js**    | Write a function that returns the addition of 2 integers.|
+**100-let_me_const.js**    | Write a file that modifies the value of myVar to 333.|
 
 ## Author
 
