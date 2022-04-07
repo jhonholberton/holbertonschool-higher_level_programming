@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh-iyakBZsiLMOYq6QtFbNHdoFRL0vrip5gz_6EHaAH4x0OFmpUdXapfuUNUKhX6YfYQ&usqp=CAU" style="height:100%;width:100%" />
+<img src="https://niixer.com/wp-content/uploads/2020/11/javascript.png" style="height:100%;width:100%" />
 
 # JavaScript - Objects, Scopes and Closures
 
@@ -27,6 +27,7 @@ Files | Description |
 **8-esrever.js** | Write a function that returns the reversed version of a list.|
 **9-logme.js** |Write a function that prints the number of arguments already printed and the new argument value.|
 **10-converter.js**     | Write a function that converts a number from base 10 to another base passed as argument.|
+**100-map.js**     | Write a script that imports an array and computes a new array.|
 
 ## Author
 
