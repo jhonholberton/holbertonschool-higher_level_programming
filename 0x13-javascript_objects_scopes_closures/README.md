@@ -1,4 +1,4 @@
-<img src="https://niixer.com/wp-content/uploads/2020/11/javascript.png" style="height:100%;width:100%" />
+<img src="https://conceptodefinicion.de/wp-content/uploads/2017/10/Javascript2.jpg" style="height:100%;width:100%" />
 
 # JavaScript - Objects, Scopes and Closures
 
