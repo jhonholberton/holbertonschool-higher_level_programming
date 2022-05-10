@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Write a script that prints the State object with the name passed as argument"""
+"""Write a script that prints the State object with
+the name passed as argument"""
 
 import sqlalchemy
 from sqlalchemy import create_engine
